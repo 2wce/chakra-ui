@@ -1,5 +1,18 @@
 # Change Log
 
+## 1.2.8
+
+### Patch Changes
+
+- Updated dependencies
+  [[`cbf8bbdf0`](https://github.com/chakra-ui/chakra-ui/commit/cbf8bbdf02eff45a57a28307ec9c3137ce845420),
+  [`e8da4c65f`](https://github.com/chakra-ui/chakra-ui/commit/e8da4c65f026f636ea26d11b7aaed63f2babf00d),
+  [`aa374ffcb`](https://github.com/chakra-ui/chakra-ui/commit/aa374ffcb4003efd88eb6a62e10723ea9fbfa3d0),
+  [`afb9b3cfa`](https://github.com/chakra-ui/chakra-ui/commit/afb9b3cfa87076ed8897b7edd4a9d9f1e1701721)]:
+  - @chakra-ui/theme@1.9.1
+  - @chakra-ui/transition@1.3.2
+  - @chakra-ui/hooks@1.5.3
+
 ## 1.2.7
 
 ### Patch Changes
